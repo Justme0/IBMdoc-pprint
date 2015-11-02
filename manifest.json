@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "IBM doc pprint",
+	"description": "This extension pretty shows IBM document",
+	"version": "1.0",
+
+	"content_scripts": [
+	{
+		"matches": ["http://www.ibm.com/developerworks/*", "https://www.ibm.com/developerworks/*"],
+		"js": ["jquery.js", "script.js"]
+	}
+	]
+}
