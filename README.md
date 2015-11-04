@@ -1,12 +1,11 @@
 # IBMdoc-pprint
-pretty print IBM document<br />
-the following pictures are in Chrome printer<br />
-<br />
+Here is a Chome extension to pretty print IBM document.<br />
 e.g. http://www.ibm.com/developerworks/cn/web/wa-lo-json/<br />
+The following pictures are in Chrome printer.<br />
 <br />
 <b>raw webpage print<b />
-<img src="./image/raw.png">
+![raw](./image/raw.png)
 <br />
 <br />
 <b>pretty print webpage print<b />
-<img src="./image/pprint.png">
+![pprint](./image/pprint.png)
